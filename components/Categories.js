@@ -10,7 +10,7 @@ const Categories = () => {
       setCategories(data);
     });
   }, []);
-  console.log(categories);
+
   return (
     <ScrollView
       contentContainerStyle={{

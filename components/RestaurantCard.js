@@ -16,7 +16,6 @@ const RestaurantCard = ({
   dishes,
   long,
   lat,
-  key,
 }) => {
   const navigation = useNavigation();
   return (
